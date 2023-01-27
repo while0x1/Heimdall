@@ -20,7 +20,8 @@ def new():
     return "GhostChain" + str(len(getNodeData()))
 #curl -H "Content-Type: application/json" -H "Auth: GhostChain3" /
 # http://localhost:5000/token
-
+#---------TODO-----
+#Change the token issue from a curl request to an email - this ensures the client has access to the email account !
 @app.route('/token')
 def set_nonce():
     reqAuth = request.headers.get("Auth")
