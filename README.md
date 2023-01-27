@@ -1,5 +1,5 @@
 # Heimdall
-Cardano Node API and Notification Service
+A Cardano Node API and Notification Service
 
 In Norse mythology, Heimdall (from Old Norse Heimdallr) is a god who keeps watch for invaders and the onset of Ragnarök from his dwelling Himinbjörg, where the burning rainbow bridge Bifröst meets the sky
 
